@@ -1,7 +1,7 @@
 # Dashboard de Tramitações Públicas - Power BI
 
 ## Objetivo
-Analisar o volume de protocolos e tramitações em diferentes secretarias, identificando padrões, crescimento e distribuição.
+Dashboard Power BI para análise de tramitações públicas com tratamento de dados e modelagem analítica.
 
 ---
 
