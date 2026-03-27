@@ -34,7 +34,7 @@ Foi desenvolvido um pipeline de dados com:
 
 ## Dashboard
 
-(Imagem abaixo)
+![Dashboard](imagens/dashboard.png)
 
 ---
 
